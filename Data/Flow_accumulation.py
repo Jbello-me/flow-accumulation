@@ -5,7 +5,6 @@ This python script interfaces with WhiteboxTools to create flow accumulation ras
     D8 algorithm
     D-infinity algorithm
     Qin et al. (2007) flow algorithm 
-
 '''
 from WBT.whitebox_tools import WhiteboxTools
 
