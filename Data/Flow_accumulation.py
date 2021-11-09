@@ -43,7 +43,7 @@ wbt.d_inf_flow_accumulation(
     threshold=10000, 
     log=True)
 
-# Perfom a Qin flow accumulation operation
+# Perfom a Qin flow accumulation operation.
 wbt.qin_flow_accumulation(
     dem="DEM_filled.tif",
     output="Qin.tif",
