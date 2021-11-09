@@ -1,6 +1,6 @@
 '''
 Author: Jubril Bello 
-Modified and adapted from Dr. John B. Lindsay (https://www.whiteboxgeo.com/manual/wbt_book/preface.html)
+Modified and adapted from Dr. John B. Lindsay: (https://www.whiteboxgeo.com/manual/wbt_book/preface.html)
 This python script interfaces with WhiteboxTools to create flow accumulation rasters using:
     D8 algorithm
     D-infinity algorithm
