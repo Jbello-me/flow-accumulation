@@ -1,2 +1,2 @@
 # Flow Accumulation
-Modelling flow accumulations using algorithms from WhiteboxTools
+Modelling flow accumulations using algorithms interfaced from WhiteboxTools
